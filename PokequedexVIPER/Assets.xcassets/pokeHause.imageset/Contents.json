@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "pokeHause.png",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
